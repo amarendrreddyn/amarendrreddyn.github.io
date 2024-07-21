@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ajs.instantappdemo",
+    "sha256_cert_fingerprints": [
+      "96:61:44:2B:25:67:56:DF:64:4D:ED:60:AC:EE:F4:4C:60:23:53:72:DF:6F:A6:3F:04:E7:1E:EB:E9:AF:6F:EC"
+    ]
+  }
+}]
